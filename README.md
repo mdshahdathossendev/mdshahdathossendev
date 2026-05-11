@@ -19,15 +19,15 @@ Exploring Next.js, TypeScript, Node.js & Express.js
 # 🔗 Connect with Me
 
 <p align="center">
-<a href="https://github.com/mdshahdathossen-ai" target="blank">
+<a href="https://github.com/mdshahdathossendev" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/shahdat-hossen/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://twitter.com/" target="blank">
+<a href="." target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" height="50" />
 </a>
 </p>
@@ -68,7 +68,7 @@ Exploring Next.js, TypeScript, Node.js & Express.js
 
 # 📫 Reach Me Out
 
-📧 Email: **mdshakilislamsagor218@gmail.com**
+📧 Email: **hmdshahdat501@gmail.com**
 
 ---
 
