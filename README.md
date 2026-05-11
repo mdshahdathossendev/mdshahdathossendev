@@ -1,80 +1,142 @@
 <div align="center">
-  
-![MD Shakil Islam](https://via.placeholder.com/800x200/4F46E5/ffffff?text=MD+SHAKIL+ISLAM)
 
-# MD SHAKIL ISLAM
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+MD+Shahdat+Hossen;React+Specialist+🚀;Frontend+Developer+💻;Building+Modern+Web+Apps+🔥;Learning+Next.js+%26+TypeScript+🧠" alt="Typing SVG" />
 
-**Frontend Developer**  
-*Passionate | Creative | Fast Learner | Problem Solver | Explorer*
+</div>
 
 ---
 
-### 🚀 Build
-**Impact Specialist** | Building modern & scalable web applications
+<h3 align="center">
+React Specialist 🚀 | Building modern & scalable web applications 🧠
+</h3>
+
+<p align="center">
+Exploring Next.js, TypeScript, Node.js & Express.js
+</p>
 
 ---
 
-### 🔗 Connect with Me
+# 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<p align="center">
+<a href="https://github.com/mdshahdathossen-ai" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
 
----
+<a href="https://linkedin.com/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
-### 💼 Currently Working With
-
-- **Frontend Technologies**: JavaScript, TypeScript, React, Next.js, CSS, Tailwind
-- **Backend Exploration**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools & Platforms**: Git, GitHub, VS Code, NPM
-
----
-
-### 🔍 Exploring
-
-- Next.js App Router & Server Components
-- Full Stack Architecture
-- Microservices & Scalable Web Apps
+<a href="https://twitter.com/" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+</p>
 
 ---
 
-### 📬 Reach Me Out
+# 🛠 Currently Working With
 
-**Email**: [shakilislam.dev@gmail.com](mailto:shakilislam.dev@gmail.com)  
-**Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+### 🚀 Frontend Technologies
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### ❤️ My Absolute Favorites
+### ⚙ Backend Technologies
 
-- Exploring modern frontend technologies
-- Building responsive & accessible web apps
-- Participating in hackathons & tech events
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
----
+### 🧰 Tools & Platforms
 
-### 🛠 Languages, Frameworks & Tools
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase" />
+</p>
 
 ---
 
-### 💻 Developer Snapshot
+# 🚀 Currently Exploring
 
-```js
-const developer = {
-  name: "MD Shakil Islam",
+- ⚡ Next.js
+- ⚡ Full Stack Development
+- ⚡ Scalable Web Applications
+- ⚡ TypeScript
+- ⚡ Microservices Architecture
+
+---
+
+# 📫 Reach Me Out
+
+📧 Email: **mdshakilislamsagor218@gmail.com**
+
+---
+
+# 💻 My Absolute Favorites
+
+✨ Building responsive & scalable web applications  
+✨ Exploring modern frontend technologies  
+✨ Learning advanced React ecosystem  
+✨ Participating in hackathons & coding events  
+
+---
+
+# 🧠 Developer Snapshot
+
+```javascript
+const shahdat = {
+  pronouns: "he/him",
   role: "Frontend Developer",
-  passion: "Creating delightful user experiences",
-  currentlyLearning: ["Next.js", "System Design", "TypeScript Advanced"],
-  funFact: "I turn coffee into clean code ☕"
+  specialization: "React",
+  focus: [
+    "Modern UI",
+    "Performance",
+    "Scalable Web Apps"
+  ],
+  learning: [
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Express.js"
+  ],
+  goal: "Become a Full Stack Developer"
 };
+```
 
-console.log("Hello, I'm Shakil! Let's build something amazing together ✨");
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshahdathossen-ai&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahdathossen-ai&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossen-ai&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mdshahdathossen-ai&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahdathossen-ai&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">
+🔥 Keep Learning • Keep Building • Keep Growing 🚀
+</h3>
