@@ -107,27 +107,15 @@ const shahdat = {
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=mdshahdathossendev&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahdathossendev&theme=tokyonight&hide_border=true"
-  />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdshahdathossendev&show_icons=true&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossendev&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+<img width="49%" src="https://streak-stats.demolab.com?user=mdshahdathossendev&theme=radical&hide_border=true" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossendev&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 ---
 
 # 🏆 GitHub Trophy
