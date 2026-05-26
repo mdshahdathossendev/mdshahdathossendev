@@ -124,7 +124,9 @@ const shahdat = {
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdshahdathossen-ai&theme=tokyonight&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mdshahdathossendev&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
 </p>
 
 ---
@@ -132,7 +134,9 @@ const shahdat = {
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahdathossen-ai&theme=tokyo-night" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahdathossendev&theme=tokyo-night&hide_border=true" 
+  />
 </p>
 
 ---
