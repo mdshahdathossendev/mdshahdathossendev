@@ -108,15 +108,24 @@ const shahdat = {
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdshahdathossen-ai&show_icons=true&theme=tokyonight" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=mdshahdathossendev&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahdathossen-ai&theme=tokyonight" />
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahdathossendev&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossen-ai&layout=compact&theme=tokyonight" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossendev&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
