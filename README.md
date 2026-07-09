@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/8LwHVfWB/Chat-GPT-Image-Jul-9-2026-08-25-29-AM.png" width="100%" alt="GitHub Banner"/>
+<img src="https://i.ibb.co.com/ZRfNMFbN/Chat-GPT-Image-May-24-2026-10-34-23-AM.png" width="100%" hight="70%" alt="GitHub Banner"/>
 
 <br><br>
 
@@ -8,48 +8,22 @@
 
 <br>
 
-<h2>🚀 MERN Stack Developer | Frontend Specialist</h2>
-
-<p>
-Passionate about building modern, scalable and responsive web applications with React, Next.js, Node.js and MongoDB.
-</p>
-
 </div>
 
 ---
 
 # 👨‍💻 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Hi! I'm **MD Shahdat Hossen**, a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩**.
+I'm passionate about crafting **modern**, **responsive**, and **high-performance** web applications that deliver exceptional user experiences. I enjoy transforming ideas into scalable digital products using today's most powerful web technologies.
 
-I love creating modern web applications that provide great user experiences. My primary focus is developing fast, scalable, and responsive applications using the MERN Stack.
+### 🚀 What I'm Up To
 
-<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-### 🚀 What I Do
-
-- 💻 Build Full Stack MERN Applications
-- ⚛ Develop Modern React & Next.js Projects
-- 🎨 Create Beautiful UI using Tailwind CSS
-- 🔥 Build REST APIs with Express.js
-- 🍃 Manage Databases using MongoDB
-- 📱 Responsive & Mobile First Design
-
-### 🌱 Currently Learning
-
-- Next.js App Router
-- TypeScript
-- Authentication
-- System Design
-- Microservices
-
-### 🎯 2026 Goals
-
-- 🚀 Become Senior MERN Developer
-- 🌎 Contribute to Open Source
-- 💼 Work on Global Products
-- ☁ Learn AWS & Docker
-- 📚 Keep Learning Everyday
+- 🌱 Exploring **Next.js**, **TypeScript**, and **Backend Development**
+- 💡 Building clean, scalable, and user-friendly web applications
+- 🎨 Creating beautiful UI with **React** & **Tailwind CSS**
+- ⚡ Writing maintainable and performance-focused code
+- 🤝 Open to collaboration on exciting projects and open-source
 
 ---
 
@@ -95,33 +69,9 @@ I love creating modern web applications that provide great user experiences. My 
 
 ---
 
-# 💼 Featured Skills
 
-<div align="center">
 
-| Frontend | Backend | Database | Tools |
-|----------|----------|----------|-------|
-| React | Node.js | MongoDB | Git |
-| Next.js | Express.js | Firebase | GitHub |
-| JavaScript | REST API | Mongoose | VS Code |
-| TypeScript | JWT Auth | Atlas | Postman |
 
-</div>
-
----
-
-# 🚀 Current Focus
-
-```text
-⚛ React Ecosystem
-🚀 Next.js App Router
-📦 TypeScript
-🍃 MongoDB
-⚡ Performance Optimization
-🎨 Modern UI/UX
-```
-
----
 
 # 💻 Developer Snapshot
 
@@ -176,19 +126,7 @@ const shahdat = {
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahdathossendev&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdshahdathossendev&theme=algolia&row=1&column=7&no-frame=true"/>
-
-</p>
 
 ---
 
