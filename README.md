@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm passionate about crafting **modern**, **responsive**, and **high-performance** web applications that deliver exceptional user experiences. I enjoy transforming ideas into scalable digital products using today's most powerful web technologies.
+I am a passionate MERN Stack Developer with experience in building modern, responsive, and scalable web applications. I specialize in creating full stack applications using MongoDB, Express.js, React.js, and Node.js.
 
 ### 🚀 What I'm Up To
 
